@@ -1,4 +1,5 @@
 
+# CAMBIO
 precioM = 1800000
 
 totalP1 = 0.0
